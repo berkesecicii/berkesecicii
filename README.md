@@ -9,6 +9,13 @@ This profile is a digital archive of my coding journey. Instead of listing compl
 *   **Certificate Projects:** Hands-on work from various training programs and courses.
 *   **Competition Submissions:** Projects and applications built for coding challenges and hackathons.
 
+### 🛠️ Selected Work
+
+- **[agency-template](https://github.com/berkesecicii/agency-template):** Multilingual (EN/SO/AR/NO) agency website template with RTL support, built with plain HTML, CSS and JavaScript.
+- **[boutique-catalogue-template](https://github.com/berkesecicii/boutique-catalogue-template):** Mobile-first product catalogue with a WhatsApp checkout, cart and favourites, no framework or backend.
+
+Both come from real projects for the small web-design startup I co-run. The public versions use placeholder content.
+
 ### 🏕️ Beyond the Keyboard
 When I'm not writing code or debugging, I stay active with boxing and hiking beautiful trails. I'm also interested in ant colonies, historical facts, and all other kinds of geeky things.
 
