@@ -1,15 +1,37 @@
-## Hi there, I'm Berke 👋
+# Berke Secici
+**Software Engineer (New Grad) · AI Engineering · Seattle, WA**
 
-I am a Seattle-based Software Developer currently completing my B.S. in Computer Science at Western Governors University (WGU), following 2 years of study at Middle East Technical University (METU). I love building software, solving problems, and constantly learning new things.
+Computer Science graduate (B.S., Western Governors University, 2026) focused on building practical AI tools and shipping them to real users. I design multi-agent systems, deliver production websites for small businesses, and own projects from planning through testing and deployment.
 
-### 🚀 What You'll Find Here
-This profile is a digital archive of my coding journey. Instead of listing complex engineering buzzwords, I use this space to share what I actually do. In my repositories, you will find:
-*   **University Assignments:** My academic coursework and school projects.
-*   **Collaborative Projects:** Fun apps and tools I've built together with my friends.
-*   **Certificate Projects:** Hands-on work from various training programs and courses.
-*   **Competition Submissions:** Projects and applications built for coding challenges and hackathons.
+I work AI-first: I use tools like Claude Code and Codex to move fast, while owning the architecture, testing and release.
 
-### 🏕️ Beyond the Keyboard
-When I'm not writing code or debugging, I stay active with boxing and hiking beautiful trails. I'm also interested in ant colonies, historical facts, and all other kinds of geeky things.
+---
 
-**Feel free to explore my repositories or reach out to connect!**
+## Featured Work
+
+### JARVIS — Multi-Agent AI Control Panel for macOS
+Open-source desktop app that coordinates multiple AI coding agents (Claude Code, Codex, Gemini, and local models via Ollama) from a single interface. A coordinator agent breaks tasks down and delegates them to specialized agents, and every action on the user's machine requires explicit approval. Started as a tool for my own workflow and grew into a full product.
+
+`Python` `Swift` `LLM Agents` `MIT License` · [Repository](https://github.com/berkesecicii/free-multi-agent-ai-council)
+
+### Horumar Web Solutions — Co-Founder & Web Developer
+Small web business serving clients in the UK, Kenya and across Europe. Delivered multilingual websites (English, Somali, Swahili), including an AI chatbot built on Cloudflare Workers AI and a lightweight admin dashboard.
+
+`HTML/CSS/JavaScript` `Cloudflare Pages` `Workers AI` · [Agency template](https://github.com/berkesecicii/agency-template) · [Boutique catalogue template](https://github.com/berkesecicii/boutique-catalogue-template)
+
+---
+
+## Technical Toolkit
+- **AI & LLMs:** AI agents, prompt engineering, Claude Code, Codex, Cloudflare Workers AI
+- **Languages:** Python, JavaScript, C, Java
+- **Web & Deployment:** HTML/CSS, Cloudflare Pages, Git & GitHub, Linux
+
+## Currently
+Deepening my AI engineering skills (LLM applications, retrieval-augmented generation and evaluation) and open to **Software Engineer** and **AI Engineer** roles in Seattle or remote.
+
+## Education
+- **B.S. Computer Science**, Western Governors University (2026) · Excellence Award, Back-End Programming
+- **Computer Engineering coursework**, Middle East Technical University (2023–2025)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/berkesecici)
